@@ -1,0 +1,12 @@
+Bash
+Scripting
+Tutorial
+Guide
+:
+Example
+on
+how
+to
+store
+to 
+array
