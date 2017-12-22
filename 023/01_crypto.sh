@@ -8,7 +8,7 @@ cat "$@" | tr "a-z" "A-Z" | tr "A-Z" "$key"
 # Will work on lowercase, uppercase, or mixed-case quotes.
 # Passes non-alphabetic characters through unchanged.
 
-# To reverse the encryption:
+# Reverse the encryption:
 # cat "$@" | tr "$key" "A-Z"
 
 echo
