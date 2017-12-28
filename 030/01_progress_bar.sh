@@ -1,5 +1,5 @@
 #! /bin/bash
-# progress-bar2.sh
+# Progress bar
 
 interval=1
 long_interval=10
