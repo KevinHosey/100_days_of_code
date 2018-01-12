@@ -1,0 +1,17 @@
+Sample piece of text to read.
+Here is another line of text.
+Do you like to read text?
+Or do you sample text to read?
+
+What sort of text can you read?
+I read text with lines.
+But somtimes I read between the lines..
+
+R
+between
+E
+the
+A
+lines
+D
+
