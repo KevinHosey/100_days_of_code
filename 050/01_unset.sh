@@ -12,5 +12,3 @@ if [ -z "$variable" ]
 then
   echo "\$variable has length ${#variable}"
 fi
-
-exit 0
