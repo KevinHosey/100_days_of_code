@@ -35,5 +35,4 @@ echo another symbolic link..
 ln -s dir1 dir1-sym
 sleep 2
 
-ls -l
-
+ls -l 
