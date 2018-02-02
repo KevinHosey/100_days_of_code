@@ -18,7 +18,7 @@
 #  We save every day for 7 days, then every week for 4 weeks,
 #+ then every month for 3 months.
 
-#  See: http://www.mikerubel.org/computers/rsync_snapshots/
+#  See: http://www.mikerubel.org/computers/rsync_snapshots/ 
 #+ for more explanation of the theory.
 #  Save as: $HOME/bin/nightly-backup_firewire-hdd.sh
 
